@@ -1,4 +1,4 @@
 blockpost
 =========
 
-An open source basic forum software built on bootstrap.
+A basic open source forum software built on bootstrap.
