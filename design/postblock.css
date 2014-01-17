@@ -1,0 +1,21 @@
+#page_container { padding-top:51px;  }
+
+.postblock-title { border-bottom:1px solid #eee; padding-bottom:14px; margin-bottom:30px; margin-top:50px; }
+.postblock-title h1 { margin:0;}
+
+.postblock-category { border-bottom:1px solid #eee; padding-bottom:9px; margin-top:10px; }
+
+.postblock-category:first-child { margin-top:0; }
+
+.postblock-content { border-bottom:1px solid #eee; padding-bottom:26px; }
+
+.postblock-user-img { width: 32px; height: 32px; margin-right: 6px; margin-top: 4px; border-radius:3px; }
+
+.postblock-centered { text-align:center; }
+
+.postblock-footer { margin-top:10px; }
+
+.postblock-user-administrator { color:#f23333; }
+.postblock-user-administrator:hover { color:#f20333; }
+
+.postblock-current-category { margin:14px 0 0 14px; }
